@@ -35,6 +35,8 @@ A harness solves all three by coordinating multiple isolated agents with indepen
 ## Installation
 
 ```bash
+git clone https://github.com/Ronakchhabra/dynamic-agent-harness.git
+cd dynamic-agent-harness
 pip install litellm
 ```
 
@@ -195,12 +197,9 @@ STRONG_MODEL = "gpt-4o"
 
 ---
 
-## Related
-
-- 📖 Medium article: *[link]*
-- 📎 PDF reference card: *[link]*
 
 ---
 
-*Built by Ronak Singh Chhabra | Associate Data Scientist at YASH Technologies*  
+*Built by Ronny | Associate Data Scientist at YASH Technologies*  
+*GitHub: https://github.com/Ronakchhabra/dynamic-agent-harness*  
 *LiteLLM docs: https://docs.litellm.ai*
