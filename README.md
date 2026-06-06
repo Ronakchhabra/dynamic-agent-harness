@@ -197,6 +197,9 @@ STRONG_MODEL = "gpt-4o"
 
 ---
 
+## Related
+ 
+- 📖 Medium article: [Stop Giving One AI Agent All the Work — Build a Harness Instead](https://medium.com/@ronaksinghchhabra3/stop-giving-one-ai-agent-all-the-work-build-a-harness-instead-d876e91969fa)
 
 ---
 
